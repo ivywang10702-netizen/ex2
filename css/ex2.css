@@ -193,7 +193,9 @@ article:hover .a_right{
 	-webkit-transition-timing-function: ease-in-out;/* Safari */
 
 }
-
+article:hover .moreb{
+    opacity:1;
+}
 /*footer*/
 footer{
     clear: both;
